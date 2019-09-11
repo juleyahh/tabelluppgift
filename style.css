@@ -1,0 +1,32 @@
+h1{
+   color: white;
+    font-size: 22px;
+}
+p, h2{
+   color:white;
+   font-size: 22px;
+}
+p{
+    color: violet;
+}
+  
+
+body{
+    background-color: grey;
+}
+p1{
+    text-align: right;
+}
+h3{
+    border-style: solid;
+    border-color: white;
+    
+    text-decoration: none;
+}
+*{
+    color: violet;
+    font-size: 22px;
+    font-family: arial;
+    text-align: center;
+    text-decoration: none;
+}
